@@ -1,14 +1,15 @@
 # portifolio
+
 portifolio do desenvolvedor 
 
 
 ## Tarefas
 
-O controle dessas tarefas serçao feitas no gitHub
+O controle dessas tarefas serão feitas no gitHub
 
 ## Icones
 
 :package: nova funcionalidade
 :up: atualização
-:beatle: correção de bugs
+:beetle: correção de bugs
 :checkered_flag: release
